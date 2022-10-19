@@ -27,9 +27,9 @@
 	`Nota:` La rama principal es `blacklivesmatter.`
 - [ x] Incluir el meme en su archivo README.md `"cheemsreprobacion.jpg"` que se encuentra en los archivos en la sección ___Meme___ *(si centran el meme +1)* y crear un nuevo commit con el mensaje:
 	- `COMMIT4: Upload cheems meme`
-- [ xgi] Marcar los incisos de las instrucciones con una ` [x]` cuando completen cada actividad y crear último con commit con el mensaje:
+- [ x] Marcar los incisos de las instrucciones con una ` [x]` cuando completen cada actividad y crear último con commit con el mensaje:
   - `COMMIT5: This is the way`
-- [ ] `Subir a sus cuentas de GITHUB` el repositorio del código y colocar el `link` en la pregunta/inciso `6` del exámen de blackboard.
+- [ x] `Subir a sus cuentas de GITHUB` el repositorio del código y colocar el `link` en la pregunta/inciso `6` del exámen de blackboard.
 ---
 ### Meme:
 <center>
